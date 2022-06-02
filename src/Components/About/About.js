@@ -12,7 +12,7 @@ function About() {
               fontFamily: "'Trebuchet MS', sans-serif",
             }}
           >
-            About Me
+            Contact Me
           </div>
           <hr
             style={{
@@ -26,7 +26,7 @@ function About() {
           <Image>
             <Avatar
               alt="Remy Sharp"
-              src="/images/avatar.jpeg"
+              src="/images/avatar.jpg"
               sx={{ width: 150, height: 150 }}
             />
           </Image>
@@ -37,13 +37,12 @@ function About() {
                 fontFamily: "'Trebuchet MS', sans-serif",
               }}
             >
-              Hello! I am Shaik Shakeer
+              Hello All...!!! Contact me Here...
             </div>
-            who enjoys coding and solving problems.As an aspiring Full Stack Web
-            developer, I like the impact it creates on the world. <br></br>One
-            of my strongest skills is creativity and it helps me a lot in web
-            designs I have created various end to end website clone using{" "}
-            <strong>MERN stack</strong>
+            <p style={{ fontWeight: "500" }}>I am from Lucknow, Uttar pradesh.</p>
+            <p style={{ fontWeight: "500" }}>Phone - 9264907558</p>
+            <p style={{ fontWeight: "500" }}>Email - aadeshmaurya112@gmail.com</p>
+            
           </div>
         </div>
       </div>

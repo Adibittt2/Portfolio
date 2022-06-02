@@ -15,35 +15,33 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm Shaik Shakeer</h1>
+            <h1>Hi, I'm Adesh Maurya</h1>
             <h5>I'm a Full Stack Web Developer</h5>
-            <p style={{ fontWeight: "500" }}>I come from Anantapur, Andhra pradesh.</p>
-            <p style={{ fontWeight: "500" }}>Phone - 7396089610</p>
-            <p style={{ fontWeight: "500" }}>Email - shaikshakeerss123@gmail.com</p>
+            <p style={{ fontWeight: "500" }}>  who enjoys coding and solving problems.As an aspiring Full Stack Web
+            developer, I like the impact it creates on the world. <br></br>One
+            of my strongest skills is creativity and it helps me a lot in web
+            designs I have created various end to end website clone using{" "}
+            <strong>MERN stack</strong></p>
+            
             <div className="download">
               <Link
-                to="/files/ShaikShakeer_Resume.pdf"
+                to="/files/adeshmauryacv.pdf"
                 className="btn btn--outline"
                 target="_blank"
                 download
               >
-                Resume
+                Download Resume
               </Link>
             </div>
-            {/* <div className="download">
-              <a href={`mailto:shaikshakeerss123@gmail.com`}>
-                <span type='button' className='btn btn--outline'>
-                  Email me
-                </span>
-              </a>
-            </div> */}
+           
+              
 
             <SocialIcon />
           </HeroLeft>
           <HeroRight>
             <Avatar
               alt="Remy Sharp"
-              src="/images/avatar.jpeg"
+              src="/images/avatar.jpg"
               sx={{ width: 300, height: 300 }}
             />
           </HeroRight>

@@ -15,7 +15,7 @@ export const Home = () => {
         </div>
         <div>
           <div>Hi,</div>
-          <div>I am Shaik Shakeer</div>
+          <div>I am Adesh Maurya</div>
           <div>I am a Full Stack Web Developer</div>
           <div className="download">
             <Link to="/files/ShaikShakeer_Resume.pdf" target="_blank" download>
