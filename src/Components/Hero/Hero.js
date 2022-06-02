@@ -15,7 +15,7 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm Adesh Maurya</h1>
+            <h1>Hi, I'm Aditya Verma</h1>
             <h5>I'm a Full Stack Web Developer</h5>
             <p style={{ fontWeight: "500" }}>  who enjoys coding and solving problems.As an aspiring Full Stack Web
             developer, I like the impact it creates on the world. <br></br>One
@@ -25,7 +25,7 @@ function Hero() {
             
             <div className="download">
               <Link
-                to="/files/adeshmauryacv.pdf"
+                to="/files/AdityaResume.pdf"
                 className="btn btn--outline"
                 target="_blank"
                 download
@@ -41,7 +41,7 @@ function Hero() {
           <HeroRight>
             <Avatar
               alt="Remy Sharp"
-              src="/images/avatar.jpg"
+              src="/images/AdityaProfile.jpeg"
               sx={{ width: 300, height: 300 }}
             />
           </HeroRight>

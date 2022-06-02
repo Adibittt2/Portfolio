@@ -1,50 +1,26 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/images/croma.png",
-    title: "Croma Clone",
+    // img: "/images/croma.png",
+    title: "Anthropologie-Clone",
     description:
-      "A E-commerce site for retail chain of consumer electronics .",
+      "A E-commerce site for ladies clothes and cosmetic items .",
     tech_stack: "HTML, Css, Javascript, Api",
-    github_url: "https://github.com/Aadesh1311/croma-clone-web16-u3",
-    demo_url: "https://croma-construct-w2-ftweb16.netlify.app/",
+    github_url: "https://github.com/Adibittt2/Anthropologie-Clone.git",
+    // demo_url: "",
   },
+ 
   {
-    img: "/images/Banggood.png",
-    title: "Banggood clone",
+    // img: "/images/hindu.png",
+    title: "Foodies",
     description:
-      "Banggood is a E-commerce site.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/Aadesh1311/banggood",
+      "This is food delivery android app available on play store inspired from swiggy. This is solo project and this app two other parts (i) Foodies Business (for restaurant owners)  (ii) Foodies Delivery (for Delivery Boy)",
+    tech_stack: "XML, Java ,Php",
+    github_url: "https://github.com/Adibittt2/Foodies-android-app.git",
     demo_url:
-      "https://stalwart-caramel-342bad.netlify.app/",
+      "https://play.google.com/store/apps/details?id=com.aditya_verma.foodies",
   },
-  {
-    img: "/images/hindu.png",
-    title: "the Hindustan Times Clone",
-    description:
-      "The Hindustan Times is a new website..",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/Aadesh1311/assignment/tree/main/the%20hindustan%20times",
-    demo_url:
-      "https://rainbow-naiad-d7723d.netlify.app/",
-  },
-  // {
-  //   img: "/images/oyo.png",
-  //   title: "OyoRooms",
-  //   description: "An end to end clone of oyorooms.com wich can book hotel rooms across India",
-  //   tech_stack: "React, Css, Javascript, figma",
-  //   github_url: "https://albartjose.hashnode.dev/",
-  //   demo_url: "https://albartjose.hashnode.dev/",
-  // },
-  // {
-  //   img: "/images/oyo.png",
-  //   title: "OyoRooms",
-  //   description: "An end to end clone of oyorooms.com wich can book hotel rooms across India",
-  //   tech_stack: "React",
-  //   github_url: "https://albartjose.hashnode.dev/",
-  //   demo_url: "https://albartjose.hashnode.dev/",
-  // },
+ 
 ];
 
 // --------------------------------------- Skills
@@ -70,11 +46,7 @@ export const stackList = [
     img: "https://img.icons8.com/color/48/000000/react-native.png",
     name: "React",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
-    name: "Redux",
-  },
-
+ 
   {
     img: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
     name: "Git",
@@ -88,9 +60,13 @@ export const stackList = [
     name: "Express",
   },
 
-  
   {
-    img: "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-    name: "Postman",
+    img: "https://dev.java/assets/images/java-logo-vert-blk.png",
+    name: "JAVA",
+  },
+
+  {
+    img: "https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png",
+    name: "XML",
   },
 ];

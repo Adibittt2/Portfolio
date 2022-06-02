@@ -9,16 +9,16 @@ export const Home = () => {
         <div>
           <Avatar
             alt="Remy Sharp"
-            src="/images/avatar.jpeg"
+            src="/images/AdityaProfile.jpeg"
             sx={{ width: 200, height: 200 }}
           />
         </div>
         <div>
           <div>Hi,</div>
-          <div>I am Adesh Maurya</div>
+          <div>I am Aditya Verma</div>
           <div>I am a Full Stack Web Developer</div>
           <div className="download">
-            <Link to="/files/ShaikShakeer_Resume.pdf" target="_blank" download>
+            <Link to="/files/AdityaResume.pdf" target="_blank" download>
               Resume
             </Link>
           </div>
@@ -27,9 +27,9 @@ export const Home = () => {
       <div className="homeSkills">
         <div>A liitle bit about my self</div>
         <div>
-          I am a full-stack web developer coming from Anantapur, Andhra pradesh. I have an
+          I am a full-stack web developer from Koderma,Jharkhand. I have an
           unwavering passion and energy for web development and am always open
-          to making new friends.
+          to discuss any issue during project constructing.
         </div>
         <div>Skilled in</div>
         <div>JavaScript,HTML,CSS,Node.js,mongoDB,React,express</div>

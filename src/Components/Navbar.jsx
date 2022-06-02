@@ -12,7 +12,7 @@ export const Navbar = () => {
         }}
         style={isPage === "hero" ? { color: "black" } : null}
       >
-        <Link to="/">Adesh Maurya</Link>
+        <Link to="/">Aditya Verma</Link>
       </div>
       <div>
         
